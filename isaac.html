@@ -1,10 +1,149 @@
 <!DOCTYPE html>
-<html>
+<html lang="da">
 <head>
-    <title>Isaac – Fysik</title>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fysik – det der får arbejdet til at virke</title>
+
+    <style>
+        :root {
+            --primary: #1e3a5f;
+            --accent: #f4b400;
+            --light: #f5f7fa;
+            --dark: #222;
+            --max-width: 1000px;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: var(--light);
+            color: var(--dark);
+            line-height: 1.6;
+        }
+
+        header {
+            background: var(--primary);
+            color: white;
+            padding: 2rem 1rem;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2rem;
+            margin-bottom: 0.5rem;
+        }
+
+        header p {
+            font-size: 1rem;
+            opacity: 0.9;
+        }
+
+        nav {
+            background: white;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+            padding: 1rem;
+            text-align: center;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: var(--primary);
+            margin: 0 1rem;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: var(--accent);
+        }
+
+        main {
+            max-width: var(--max-width);
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        section {
+            background: white;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+
+        section h2 {
+            color: var(--primary);
+            margin-bottom: 1rem;
+        }
+
+        footer {
+            text-align: center;
+            padding: 2rem 1rem;
+            background: var(--primary);
+            color: white;
+            margin-top: 3rem;
+        }
+
+        @media (max-width: 600px) {
+            header h1 {
+                font-size: 1.5rem;
+            }
+        }
+    </style>
 </head>
+
 <body>
-    <h1>Isaac – Fysik</h1>
-    <p>Velkommen til fysikbotten Isaac. Her kan elever interagere med fysikmaterialer og opgaver.</p>
-    <p><a href="index.html">Tilbage til Basecamp-forsiden</a></p> </body> </html> 
+
+<header>
+    <h1>FYSIK – det der får arbejdet til at virke</h1>
+    <p>GF2 E-niveau · Elektriker · Tømrer · Procesoperatør</p>
+</header>
+
+<nav>
+    <a href="#">Energi</a>
+    <a href="#">El & Magnetisme</a>
+    <a href="#">Målinger</a>
+    <a href="#">Virkningsgrad</a>
+</nav>
+
+<main>
+
+    <section>
+        <h2>Velkommen</h2>
+        <p>
+            Denne side samler centrale begreber i fysik, som anvendes i erhvervsuddannelser.
+            Her finder du forklaringer, illustrationer og praktiske eksempler fra arbejdet.
+        </p>
+    </section>
+
+    <section>
+        <h2>Energikæder</h2>
+        <p>
+            Energi kan ikke forsvinde, men den kan omdannes fra én form til en anden.
+            For eksempel kan kemisk energi i brændstof omdannes til varme,
+            bevægelse og elektrisk energi.
+        </p>
+    </section>
+
+    <section>
+        <h2>Effekt og virkningsgrad</h2>
+        <p>
+            Effekt beskriver hvor hurtigt energi omsættes.
+            Virkningsgrad viser hvor stor en del af energien,
+            der bliver til nyttig energi.
+        </p>
+    </section>
+
+</main>
+
+<footer>
+    Kalundborg · 2026
+</footer>
+
+</body>
+</html>

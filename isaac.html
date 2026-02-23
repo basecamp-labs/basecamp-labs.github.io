@@ -1,57 +1,30 @@
 <!doctype html>
 <html lang="da">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Isaac</title>
-  <style>
-    html, body {
-      margin: 0;
-      padding: 0;
-      height: 100%;
-      background: #0b1f3a; /* mørk blå */
-      font-family: Arial, sans-serif;
-    }
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Isaac</title>
 
-    /* En tydelig ramme af blå, så vi kan se baggrunden uanset billedet */
-    .wrap {
-      min-height: 100%;
-      box-sizing: border-box;
-      padding: 28px;            /* gør blå baggrund synlig som kant */
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
+<style>
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #000; /* sikker fallback */
+}
 
-    /* Vis at filen er opdateret */
-    .badge {
-      position: fixed;
-      top: 10px;
-      left: 10px;
-      background: rgba(0,0,0,0.35);
-      color: #fff;
-      padding: 6px 10px;
-      border-radius: 8px;
-      font-size: 14px;
-      z-index: 10;
-    }
-
-    img {
-      display: block;
-      max-width: calc(100vw - 56px);  /* tager højde for wrap-padding */
-      max-height: calc(100vh - 56px);
-      height: auto;
-      /* Lidt skygge så man kan se billedkanten mod baggrunden */
-      box-shadow: 0 10px 30px rgba(0,0,0,0.35);
-      border-radius: 8px;
-    }
-  </style>
+img {
+    width: 100vw;
+    height: 100vh;
+    object-fit: contain;   /* bevarer proportioner */
+    display: block;
+}
+</style>
 </head>
-<body>
-  <div class="badge">ISAAC v7</div>
 
-  <div class="wrap">
-    <img src="isaac.png?cb=7" alt="Isaac">
-  </div>
+<body>
+
+<img src="isaac.png?cb=final" alt="Isaac">
+
 </body>
 </html>

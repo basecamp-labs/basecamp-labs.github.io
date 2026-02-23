@@ -1,24 +1,30 @@
 <!DOCTYPE html>
 <html lang="da">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Isaac</title>
-    <style>
-        /* Forsidebillede som cover */
-        .header-image img {
-            width: 100%;
-            height: 400px; /* kan ændres til fx 100vh for hele skærmen */
-            object-fit: cover;
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Isaac</title>
+
+<style>
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+.hero {
+    height: 100vh;               /* fylder hele skærmens højde */
+    background-image: url("forside.jpg"); /* dit billede */
+    background-size: cover;      /* fylder hele skærmen */
+    background-position: center; /* centrerer billedet */
+    background-repeat: no-repeat;
+}
+</style>
+
 </head>
 <body>
 
-    <!-- Forsidebillede -->
-    <div class="header-image">
-        <img src="forside.png" alt="Isaac forside">
-    </div>
+<div class="hero"></div>
 
 </body>
 </html>

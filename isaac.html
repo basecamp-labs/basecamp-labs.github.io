@@ -38,6 +38,51 @@ html, body {
 <body>
 
 <div class="hero">
+    <!doctype html>
+<html lang="da">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Isaac</title>
+
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+    height: 100%;
+    background: #0b1e3d; /* Mørk NEG-blå */
+}
+
+/* Fuldskærm container */
+.hero {
+    min-height: 100svh;  /* Korrekt mobilhøjde */
+    min-height: 100vh;   /* Fallback */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Billede */
+.hero img {
+    max-width: 100%;
+    max-height: 100vh;
+    width: auto;
+    height: auto;
+    object-fit: contain;  /* Bevarer proportioner */
+    display: block;
+}
+</style>
+</head>
+
+<body>
+
+<div class="hero">
+    <img src="isaac.png" alt="Isaac">
+</div>
+
+</body>
+</html>
     <img src="isaac.png" alt="Isaac">
 </div>
 

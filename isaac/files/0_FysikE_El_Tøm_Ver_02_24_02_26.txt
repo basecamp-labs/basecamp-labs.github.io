@@ -1,0 +1,2139 @@
+FORORD
+FYSIK – det der får arbejdet til at virke.
+GF2 E-niveau (EUD)
+Elektriker · Tømrer
+Fysik er ikke kun noget, man arbejder med i et klasselokale.
+Fysik er det, der forklarer, hvorfor arbejdet virker – og hvorfor det nogle
+gange ikke gør.
+Når en maskine starter, når et værktøj udfører sit arbejde, eller når et
+anlæg kører stabilt, er det ikke tilfældigt. Det sker, fordi de fysiske
+sammenhænge bag er i orden. Når noget går galt, er det ofte, fordi der
+ikke er taget højde for fysikken.
+For elektrikeren handler fysik om strøm, energi og belastning. Det er
+fysikken, der afgør, om installationer fungerer korrekt, om komponenter
+bliver varme, og om anlæg kører sikkert og stabilt.
+For tømreren handler fysik om kræfter, materialer og bevægelse. Det er
+fysikken, der forklarer, hvorfor konstruktioner holder, hvordan
+belastninger fordeles, og hvorfor præcision er afgørende for et godt
+resultat.
+Denne bog er skrevet til elever på GF2 og tager udgangspunkt i praksis,
+virkelige arbejdssituationer og forståelse før formler.
+Fysik er et værktøj.
+Det er det, der får arbejdet til at virke.
+
+Til bogen hører en digital hjælper med navnet Isaac, som kan forklare
+stoffet med enklere ord. Hjælperen kan bruges som støtte, når du har
+brug for hjælp til at forstå begreber, definitioner, formler og eksempler i
+teksten. Hjælperen svarer kun ud fra indholdet i denne bog og dermed
+fysik på E-niveau. Isaac introducerer ikke nyt stof eller nye begreber.
+
+https://basecamp-labs.github.io/isaac/
+
+~1~
+
+Indhold
+HVAD ER FYSIK, OG HVORFOR VIRKER ARBEJDET? ........................... 1
+Hvad er fysik .............................................................................. 1
+Fysik i erhvervsuddannelser ......................................................... 1
+Fysik i arbejdet........................................................................... 2
+Forståelse før formler .................................................................. 2
+Atommodellen - kort version ........................................................ 2
+MÅLINGER, SI-ENHEDER OG METERSYSTEMET .................................. 3
+Hvorfor måler vi ......................................................................... 3
+Fysiske størrelser og enheder ....................................................... 3
+SI-enhedssystemet ..................................................................... 4
+SI-systemets grundenheder ......................................................... 4
+Præfix ....................................................................................... 6
+Videnskabelig notation ................................................................ 7
+Målenormaler ............................................................................. 7
+Metersystemet ........................................................................... 8
+Længde ..................................................................................... 9
+Areal og volumen........................................................................ 9
+Enhedsomregning ....................................................................... 9
+ARBEJDE, ENERGI OG ENERGIFORMER .......................................... 11
+Arbejde og energi ..................................................................... 11
+Hvad er energi ......................................................................... 11
+Arbejde ................................................................................... 12
+Energiprincippet ....................................................................... 13
+Energiformer ............................................................................ 13
+
+~2~
+
+Beregning af mekanisk energi .................................................... 14
+Kinetisk energi (bevægelsesenergi) ............................................. 15
+Potentiel energi (beliggenhedsenergi).......................................... 16
+Samlet mekanisk energi ............................................................ 17
+Potentiel energi og gentagne løft ................................................ 18
+Energikæder (energikonvertering) .............................................. 20
+Sammenhæng mellem energi, effekt og tid .................................. 22
+Energiproduktion ...................................................................... 22
+Sort energi .............................................................................. 23
+Grøn energi.............................................................................. 24
+EFFEKT OG ENERGIFORBRUG ........................................................ 25
+Hvad er effekt .......................................................................... 25
+Effekt som fysisk størrelse ......................................................... 25
+Elektrisk effekt ......................................................................... 25
+Energiforbrug i praksis .............................................................. 26
+VIRKNINGSGRAD OG ENERGITAB .................................................. 27
+Energitab ................................................................................. 27
+Virkningsgrad ........................................................................... 27
+Virkningsgrad i praksis .............................................................. 27
+Beregning af virkningsgrad ........................................................ 28
+VARME, TEMPERATUR OG ISOLERING ............................................ 29
+Varme i arbejdet....................................................................... 29
+Temperatur og varme ............................................................... 29
+Varme som energi .................................................................... 31
+Varmeoverførsel ....................................................................... 31
+Isolering .................................................................................. 31
+
+~3~
+
+Varmefylde (den specifikke varmekapacitet) ................................ 31
+Den termiske energi .................................................................. 32
+EL OG MAGNETISME .................................................................... 34
+Elektricitet i arbejdet ................................................................. 34
+Elektrisk strøm ......................................................................... 34
+Isolering .................................................................................. 34
+Spænding ................................................................................ 35
+Modstand ................................................................................. 36
+Elektrisk effekt og varme ........................................................... 37
+Elektriske kredsløb .................................................................... 38
+Modstand og temperatur i en glødelampe .................................... 39
+Måling af elektriske størrelser. .................................................... 40
+Magnetisme ............................................................................. 42
+Permanent magnet ................................................................... 42
+Et magnetfelt ........................................................................... 44
+Elektromagnetisme ................................................................... 46
+Magnetisk induktion .................................................................. 49
+Transformation ......................................................................... 50
+KRAFT, BELASTNING OG KONSTRUKTION ...................................... 52
+Kræfter i konstruktioner ............................................................ 52
+Hvad er en kraft ....................................................................... 52
+Tyngdekraft ............................................................................. 53
+Belastning................................................................................ 54
+Træk, tryk og bøjning................................................................ 54
+Dimensionering ........................................................................ 55
+Et regneeksempel ..................................................................... 57
+
+~4~
+
+De simple maskiner og løftestangsprincippet ................................ 58
+Faglig definition: ....................................................................... 61
+TRYK OG MASSEFYLDE I BYGGERI ................................................. 62
+Tryk ........................................................................................ 62
+Tryk i praksis ........................................................................... 63
+Tryk i væsker ........................................................................... 63
+Massefylde ............................................................................... 64
+Massefylde i byggeri.................................................................. 65
+EKSPERIMENTER OG FYSIK I PRAKSIS ........................................... 66
+Hvorfor laver vi eksperimenter ................................................... 66
+Den naturvidenskabelige metode ................................................ 67
+Planlægning af forsøg ................................................................ 68
+Forsøgsskabelon ....................................................................... 69
+Data og usikkerhed ................................................................... 70
+Forsøg i fagene......................................................................... 70
+Eksamen og forsøg ................................................................... 71
+Fra forsøg til forståelse .............................................................. 72
+DATA, DOKUMENTATION OG IT ..................................................... 73
+Data ....................................................................................... 73
+Målinger .................................................................................. 74
+Dokumentation ......................................................................... 75
+Dokumentation på E-niveau ....................................................... 76
+Tabeller og grafer ..................................................................... 77
+IT i fysik .................................................................................. 78
+DOKUMENTATIONER OG MUNDTLIG PRØVE .................................... 79
+Dokumentationernes formål ....................................................... 79
+
+~5~
+
+De to dokumentationer .............................................................. 79
+Indhold ................................................................................... 79
+Den mundtlige prøve ................................................................. 79
+Forberedelse ............................................................................ 79
+
+~6~
+
+HVAD ER FYSIK, OG HVORFOR VIRKER ARBEJDET?
+Hvad er fysik
+Fysik er det fag, der forklarer sammenhænge i naturen og i teknisk
+arbejde. Fysik beskriver, hvordan og hvorfor noget sker, når noget
+bevæger sig, bliver varmt, bruger energi eller yder modstand. Når noget
+virker i praksis, er det fordi de fysiske sammenhænge er i orden. Når
+noget ikke virker, er det ofte fordi en eller flere fysiske forhold ikke er
+taget med i overvejelserne. Fysik giver derfor forklaringer på både det,
+der fungerer, og det, der går galt i arbejdet.
+
+Figur 1Fysik handler om at undersøge, hvordan verden hænger sammen.
+
+Fysik i erhvervsuddannelser
+I en erhvervsuddannelse møder man fysik hver dag, også selvom man
+ikke altid tænker over det. Fysik er i spil, når strøm løber i en installation,
+når varme skal holdes inde i en bygning, når et anlæg bruger energi, og
+når materialer belastes. Fysik er en del af det praktiske arbejde og er
+med til at sikre, at arbejdet udføres korrekt, sikkert og stabilt.
+
+~1~
+
+Fysik i arbejdet
+Fysik er tæt knyttet til det arbejde, man udfører som faglært. For
+elektrikeren forklarer fysik, hvordan strøm bevæger sig i ledninger,
+hvordan energi bruges, og hvorfor komponenter kan blive varme. Fysik
+er grundlaget for sikre, stabile og velfungerende installationer. For
+tømreren forklarer fysik, hvordan kræfter virker i konstruktioner, hvordan
+materialer belastes, og hvorfor bygninger står stabilt. Fysik er med til at
+sikre holdbare og præcise løsninger.
+
+Forståelse før formler
+Fysik handler ikke om at lære svære formler udenad. Fysik handler først
+og fremmest om at forstå, hvad der sker, og hvorfor det sker. Når man
+forstår sammenhængene, bliver det lettere senere at arbejde med
+målinger, formler og beregninger. Forståelsen er derfor det vigtigste
+fundament i faget.
+
+Atommodellen - kort version
+Atomet er stoffets byggesten. Det består af en kerne med protoner og
+neutroner samt elektroner, som kredser rundt om kernen.
+Som hjemmearbejde / og repetition skal du se filmen om universets
+skabelse, atomer og det periodiske system.
+
+Film: Nøglen til Kosmos
+
+Skriv tre ting som du synes er spændende og tag det med til næste
+fysiktime.
+
+~2~
+
+MÅLINGER, SI-ENHEDER OG METERSYSTEMET
+Hvorfor måler vi
+I praktisk arbejde er det ikke nok at sige, at noget er varmt, tungt eller
+langt. For at kunne arbejde korrekt og sikkert er det nødvendigt at kunne
+måle. Målinger bruges til kvalitetssikring, fejlfinding, dokumentation og
+beregninger. Fysik bygger på målinger, og uden målinger kan man ikke
+arbejde systematisk eller sammenligne resultater.
+
+Fysiske størrelser og enheder
+En fysisk størrelse består altid af et tal og en enhed. Tallet alene giver
+ingen mening uden enheden. Enheden fortæller, hvad der måles, og
+hvordan tallet skal forstås.
+
+Figur 2 Bemærk at størrelsen m skrives
+med kursiv og enheden uden (normal
+skrift).
+
+~3~
+
+SI-enhedssystemet
+I fysik bruges SI-enhedssystemet, som sikrer, at alle måler og regner
+med
+
+de
+
+samme
+
+enheder.
+
+Systemet
+
+bruges
+
+i
+
+teknik,
+
+industri,
+
+dokumentation og uddannelse. Når alle bruger SI-enheder, kan målinger
+sammenlignes på tværs af fag og brancher.
+
+SI-systemets grundenheder
+SI-systemet bygger på syv grundenheder. Længde måles i meter, masse
+i kilogram, tid i sekund, elektrisk strøm i ampere og temperatur i kelvin.
+Disse grundenheder er fundamentet for hele systemet.
+
+Skriv korrekt størrelsesbogstav og enhed på figurerne herover. Husk at
+størrelsesbogstav er med kursiv og enheden er med almindelig skrift.
+Se tre dejlige film om SI-systemets tilblivelse (tilbud).
+
+Meteren
+
+Kelvin, Ampere og alle de andre
+
+Kiloet
+
+~4~
+
+Figur 3 Det samlede SI-system af enheder. Bemærk de 7 grundenheder, som har grå baggrund i
+kolonnen til venstre.
+
+~5~
+
+Præfix
+Et præfiks er en lille forstavelse, som sættes foran en enhed og viser,
+hvor stor eller hvor lille en måling er. Præfikset ændrer ikke selve
+enheden, men fortæller hvor mange gange større eller mindre tallet er i
+forhold til grundenheden.
+
+Når vi for eksempel måler længde, betyder kilo, at noget er 1 000 gange
+større, mens milli betyder, at noget er 1 000 gange mindre. En kilometer
+er derfor 1 000 meter, og en millimeter er 0,001 meter.
+
+Præfikser hører til SI-systemet og gør det lettere at skrive både meget
+store og meget små tal på en enkel måde. I stedet for at skrive 0,001
+meter kan vi skrive 1 millimeter. Det gør målinger mere overskuelige og
+lettere at forstå.
+
+Præfiks
+
+Symbol
+
+Faktor
+
+Eksempel
+
+kilo
+
+k
+
+1 000
+
+1 km = 1 000 m
+
+hekto
+
+h
+
+100
+
+1 hg = 100 g
+
+deca
+
+da
+
+10
+
+1 dag = 10 g
+
+(ingen)
+
+–
+
+1
+
+1m
+
+deci
+
+d
+
+0,1
+
+1 dm = 0,1 m
+
+centi
+
+c
+
+0,01
+
+1 cm = 0,01 m
+
+milli
+
+m
+
+0,001
+
+1 mm = 0,001 m
+
+mikro
+
+µ
+
+0,000001
+
+1 µm = 0,000001 m
+
+nano
+
+n
+
+0,000000001
+
+1 nm = 0,000000001 m
+
+~6~
+
+Videnskabelig notation
+Videnskabelig notation bruges til at skrive meget store og meget små tal
+på en kort og overskuelig måde. I stedet for at skrive alle nullerne
+omskriver man tallet som et produkt af et tal mellem 1 og 10 og en potens
+af 10.
+
+For eksempel kan tallet 4 500 000 skrives som 4,5 · 10⁶, fordi kommaet
+er flyttet seks pladser mod venstre. Tilsvarende kan 0,00032 skrives som
+3,2 · 10⁻⁴, fordi kommaet er flyttet fire pladser mod højre, og
+eksponenten derfor er negativ.
+
+Metoden bruges især i naturfag og teknik, hvor man arbejder med meget
+store størrelser som afstande i rummet eller meget små størrelser som
+atomers størrelse. Videnskabelig notation gør beregninger lettere og
+giver et bedre overblik over størrelsesordener.
+
+Målenormaler
+En målenormal er en genstand eller en metode, som bruges som fælles
+reference for en måleenhed. En målenormal sikrer, at en meter, et
+kilogram eller et sekund betyder det samme overalt.
+
+Historisk blev enheden for masse defineret ved et fysisk referencelod i
+Paris. Det var et metallegeme, som havde massen 1 kilogram og blev
+opbevaret som international normal. Længdeenheden meter blev også
+først defineret ved en fysisk meterstang af metal.
+
+Problemet med fysiske normaler er, at de kan ændre sig en lille smule
+over tid på grund af slid, temperatur og forurening. Derfor er moderne
+målenormaler i dag knyttet til naturkonstanter. Kilogram er nu defineret
+
+~7~
+
+ud fra Plancks konstant, og meter er defineret ud fra lysets hastighed i
+vakuum.
+
+I
+
+dag
+
+bygger
+
+hele
+
+SI-enhedssystemet
+
+på
+
+stabile,
+
+internationale
+
+definitioner, så målinger kan sammenlignes præcist i hele verden.
+
+Figur 4 Fælles standarder for længde, masse og tid giver ensartede målinger over hele verden både historisk og i moderne tid.
+
+Metersystemet
+Metersystemet er den del af SI-systemet, der bruges til længde, areal og
+volumen. Det er opbygget som et 10-tals-system, hvilket gør omregning
+enkel.
+
+~8~
+
+Længde
+Længde måles i meter og beslægtede enheder. 1 meter svarer til 100
+centimeter eller 1000 millimeter. Valg af enhed afhænger af, hvor præcist
+man måler.
+
+Areal og volumen
+Areal måles i kvadratmeter, og volumen måles i kubikmeter. En vigtig
+sammenhæng er, at 1 kubikdecimeter svarer til 1 liter, og at 1
+kubikmeter svarer til 1000 liter.
+
+Enhedsomregning
+I praktisk arbejde skal man ofte omregne mellem enheder. Korrekt enhed
+er afgørende, fordi forkert enhed giver forkert resultat, selvom
+regnemetoden er korrekt.
+Tid
+Der er 60 sekunder på 1 minut og 60 minutter på én time.
+
+~9~
+
+Længde
+
+Areal
+
+Volumen
+
+~ 10 ~
+
+ARBEJDE, ENERGI OG ENERGIFORMER
+Arbejde og energi
+Når der udføres arbejde i fysik, bliver der brugt energi. Arbejde handler
+om, at en kraft får noget til at bevæge sig. Uden energi kan der ikke
+udføres arbejde. Energi er derfor det, der gør, at arbejdet bliver udført.
+
+Hvad er energi
+Energi er evnen til at udføre arbejde. Energi findes i mange former og er
+til stede overalt omkring os. Når noget sker, og der udføres arbejde, er
+der altid energi involveret.
+
+Energi kan ikke skabes og kan ikke forsvinde. Den kan kun omdannes fra
+én form til en anden. Når en elektriker tænder en motor, omdannes
+elektrisk energi til mekanisk energi. Når en tømrer løfter en bjælke,
+omdannes kemisk energi i kroppen til bevægelsesenergi.
+
+Energi måles i joule (J). Jo mere arbejde der udføres, desto større er
+energimængden. I praksis betyder det, at tunge løft, store maskiner og
+lange arbejdsprocesser kræver mere energi end små og korte opgaver.
+
+~ 11 ~
+
+Arbejde
+I fysik betyder arbejde noget andet end i hverdagen. Arbejde sker, når
+en kraft får en genstand til at bevæge sig.
+
+Et arbejde er den bestemte mængde energi, der skal til for at gennemføre
+netop det stykke arbejde.
+
+Når du for eksempel løfter en kasse op på et bord, skal der bruges energi.
+Den energi, der overføres til kassen, kaldes arbejde.
+
+Der skal være både kraft og bevægelse, før der udføres arbejde i fysik.
+Hvis du holder en kasse stille uden at flytte den, udfører du ikke arbejde
+i fysikkens betydning.
+
+Enheden for både arbejde og energi er joule (J).Det betyder, at arbejde
+måles i joule, og energi måles i joule. Arbejde og energi hænger derfor
+tæt sammen.
+
+Arbejde er den energi, der overføres, når en kraft får noget til at bevæge
+sig.
+
+~ 12 ~
+
+Energiprincippet
+Energi kan kun omdannes fra én form til en anden. Når der udføres
+arbejde, vil en del af energien ofte ende som varme.
+
+Energiformer
+Der findes flere energiformer, blandt andet elektrisk energi, varmeenergi,
+bevægelsesenergi og kemisk energi. I praktisk arbejde omdannes energi
+ofte fra én form til en anden. Energi kan ikke skabes og kan ikke
+forsvinde, men den kan skifte form. Det kaldes energiprincippet.
+
+Elektrisk energi er energi, der transporteres med elektrisk strøm. Den
+bruges i lamper, motorer, computere og mange andre apparater. Når en
+elektriker tilslutter en lampe, bliver elektrisk energi omdannet til lys og
+varme.
+
+I
+
+en
+
+elmotor
+
+bliver
+
+elektrisk
+
+energi
+
+omdannet
+
+til
+
+bevægelsesenergi.
+
+Varmeenergi er energi, der hænger sammen med stoffers temperatur. Jo
+højere temperatur, desto større bevægelse er der mellem partiklerne i
+stoffet. Varmeenergi kan opstå ved forbrænding, friktion eller elektrisk
+strøm. Når man saver i træ, udvikles der varme på grund af friktion. Når
+vand koges på et komfur, omdannes kemisk energi eller elektrisk energi
+til varmeenergi.
+
+Bevægelsesenergi kaldes også kinetisk energi. Det er den energi, som en
+genstand har, når den bevæger sig. En hammer, der svinges mod et søm,
+har bevægelsesenergi. En bil i fart eller en roterende maskine i en fabrik
+har også bevægelsesenergi. Bevægelsesenergi kan omdannes til andre
+former, for eksempel varmeenergi ved opbremsning.
+
+~ 13 ~
+
+Kemisk energi er energi, der er lagret i kemiske stoffer. Den findes i
+brændstoffer, batterier og mad. Når benzin brænder i en motor,
+omdannes kemisk energi til varmeenergi og videre til bevægelsesenergi.
+I et batteri omdannes kemisk energi til elektrisk energi. I kroppen
+omdannes
+
+kemisk
+
+energi
+
+fra
+
+maden
+
+til
+
+bevægelsesenergi
+
+og
+
+varmeenergi.
+
+Der findes også andre energiformer, for eksempel gravitationel potentiel
+energi (energi på grund af højde), strålingsenergi (energi i lys fra solen)
+og kerneenergi (energi i atomkerner). Fælles for alle energiformer er, at
+de kan omdannes fra én form til en anden, men den samlede mængde
+energi bevares. I både håndværk, industri og hverdagsliv er det netop
+disse energiomdannelser, der får arbejdet til at virke.
+
+Beregning af mekanisk energi
+Mekanisk energi er den energi, som et legeme har på grund af sin
+bevægelse og sin placering i et kraftfelt. Mekanisk energi består af to
+dele: kinetisk energi og potentiel energi.
+
+~ 14 ~
+
+Kinetisk energi (bevægelsesenergi)
+Kinetisk energi er bevægelsesenergi. Den afhænger af legemets masse
+og hastighed. Jo større masse og jo større hastighed, desto større
+kinetisk energi.
+Den beregnes med formlen:
+1
+𝐸𝑘 = 𝑚 ⋅ 𝑣 2
+2
+Hvor;
+𝐸𝑘 er kinetisk energi i joule (J)
+m er masse i kilogram (kg)
+v er hastighed i meter pr. sekund (m/s)
+
+Ek
+J
+1/2
+
+m
+kg
+
+v2
+m/s
+
+~ 15 ~
+
+Potentiel energi (beliggenhedsenergi)
+Potentiel energi er energi, som et legeme har på grund af sin position i
+et kraftfelt. I praksis arbejdes der oftest med gravitationel potentiel
+energi i Jordens tyngdefelt.
+Den beregnes med formlen:
+𝐸𝑝 = 𝑚 ⋅ 𝑔 ⋅ ℎ
+Hvor;
+Ep er potentiel energi i joule (J)
+m er masse i kilogram (kg)
+g er tyngdeaccelerationen (9,82 m/s²)
+h er højden over referencepunktet i meter (m)
+
+Ep
+J
+m
+kg
+
+g
+m/s2
+
+h
+m
+
+~ 16 ~
+
+Samlet mekanisk energi
+Den samlede mekaniske energi er summen af kinetisk og potentiel
+energi:
+𝐸𝑚 = 𝐸𝑘 + 𝐸𝑝
+
+Mekanisk energi kan omdannes mellem bevægelse og højde. Når et
+legeme falder, omdannes potentiel energi til kinetisk energi. Når et
+legeme løftes, sker den modsatte omdannelse.
+
+I praktisk arbejde kan dette ses, når en motor løftes op på et stillads.
+Under løftet øges den potentielle energi. Hvis motoren sænkes
+kontrolleret
+
+ned,
+
+omdannes
+
+den
+
+potentielle
+
+energi
+
+gradvist
+
+til
+
+bevægelsesenergi og videre til varme i bremser eller hænder.
+
+Mekanisk energi er derfor et centralt begreb i forståelsen af arbejde, løft,
+fald og bevægelse i både byggeri, el-arbejde og procesanlæg.
+
+~ 17 ~
+
+Potentiel energi og gentagne løft
+Når en genstand løftes op i en højde, får den potentiel energi. Potentiel
+energi kaldes også beliggenhedsenergi, fordi energien afhænger af, hvor
+højt genstanden befinder sig i forhold til jorden. Den grundlæggende
+formel er Ep = m · g · h, hvor Ep er energi målt i joule (J), m er masse i
+kilogram (kg), g er tyngdeaccelerationen 9,82 m/s², og h er højden i
+meter (m). Jo tungere genstanden er, og jo højere den løftes, desto
+større bliver energien.
+
+Hvis den samme bevægelse gentages flere gange, skal energien ganges
+med antal løft. Formlen bliver da Ep = m · h · g · n, hvor n er antal løft.
+Energiforbruget vokser altså proportionalt med både masse, højde og
+antal gentagelser.
+
+En praktisk øvelse kan udføres ved, at en elev løfter en pakke kopipapir
+op over hovedet og ned igen flere gange. En anden elev måler afstanden
+fra hovedets niveau til papirpakken i strakt arm, hvilket er højden h, og
+tæller hvor mange gange pakken løftes, hvilket er n. Massen m findes
+ved at veje pakken eller aflæse vægten på emballagen.
+
+~ 18 ~
+
+Hvis en papirpakke vejer 2,5 kg, afstanden fra hoved til pakke i strakt
+arm er 0,60 m, og pakken løftes 20 gange, kan energien beregnes som
+Ep = 2,5 kg · 0,60 m · 9,82 m/s2 · 20 løft, hvilket giver cirka 295 J. Det
+betyder, at der bruges omkring 295 joule mekanisk energi på løftene. Det
+samme princip gælder, når en håndværker løfter materialer op på et
+stillads eller arbejder over hovedhøjde.
+𝐸𝑝 = 𝑛 · (𝑚 ∙ 𝑔 ∙ ℎ)
+Hvor;
+Ep er energi målt i joule (J)
+m er masse i kilogram (kg)
+g er tyngdeaccelerationen 9,82 m/s²
+h er højden i meter (m)
+n er antallet af gentagelser
+
+Ep
+J
+n
+m
+kg
+
+g
+m/s2
+
+h
+m
+
+Potentiel energi er den energi, en genstand har på grund af sin placering
+i et tyngdefelt.
+
+~ 19 ~
+
+Energikæder (energikonvertering)
+Når energi skifter fra én form til en anden, taler man om en energikæde
+eller energikonvertering. En energikæde beskriver, hvordan energien
+bevæger sig gennem et system og undervejs omdannes fra én energiform
+til en anden. Energien starter ét sted og ender et andet sted, men den
+forsvinder ikke. Den samlede mængde energi er den samme, selv om
+formen ændres.
+
+Et eksempel er en lampe. Energien begynder som kemisk energi i et
+kraftværks brændsel eller som bevægelsesenergi i en vindmølle. Denne
+energi omdannes til elektrisk energi, som sendes gennem ledningerne til
+lampen. I lampen omdannes den elektriske energi til lysenergi og
+varmeenergi. Energikæden kan derfor beskrives som: kemisk energi →
+elektrisk energi → lysenergi + varmeenergi.
+
+Et andet eksempel er kroppen. Når vi spiser, optager vi kemisk energi fra
+maden. Kroppen omdanner den kemiske energi til bevægelsesenergi, når
+vi arbejder eller dyrker sport, og samtidig dannes der varmeenergi, som
+holder kroppen varm. Energikæden kan her beskrives som: kemisk
+energi → bevægelsesenergi + varmeenergi.
+
+I tekniske anlæg og maskiner er energikæder meget vigtige. For
+eksempel i en boremaskine: elektrisk energi fra stikkontakten omdannes
+i motoren til bevægelsesenergi, som får boret til at dreje. Noget af
+energien bliver altid til varme på grund af friktion. Derfor vil der næsten
+altid indgå varmeenergi som en del af en energikæde.
+
+~ 20 ~
+
+At forstå energikæder gør det lettere at se, hvor energien kommer fra,
+hvordan den udnyttes, og hvor der opstår energitab. Det er centralt i
+både fysik og praktisk arbejde.
+
+~ 21 ~
+
+Sammenhæng mellem energi, effekt og tid
+Energi, effekt og tid hænger sammen. Sammenhængen beskrives med
+formlen E = P · t, hvor energi måles i joule (J), effekt i watt (W) og tid i
+sekunder (s).
+
+E
+J
+P
+W
+
+t
+s
+
+Energiproduktion
+Energi er en forudsætning for det moderne samfund. Vi bruger energi til
+opvarmning, transport, produktion i industrien, belysning og elektroniske
+apparater. Men energi findes ikke frit tilgængelig i den form, vi har brug
+for. Derfor skal den produceres ved at omdanne energi fra naturen til
+elektrisk energi eller varme, som vi kan bruge i hverdagen.
+
+Når man taler om energiproduktion, skelner man ofte mellem sort energi
+og grøn energi.
+
+~ 22 ~
+
+Sort energi
+Sort energi dækker over energikilder, der bygger på fossile brændstoffer
+som kul, olie og naturgas. Fossile brændstoffer er dannet af planter og
+dyr, der levede for millioner af år siden. Den kemiske energi er lagret i
+brændslerne og frigives ved forbrænding. Når kul eller olie brændes på
+et kraftværk, omdannes kemisk energi først til varmeenergi, derefter til
+bevægelsesenergi i en turbine og til sidst til elektrisk energi i en
+generator.
+
+Sort energi har den fordel, at den kan levere store mængder stabil energi.
+Men den har også store ulemper. Ved forbrænding dannes kuldioxid
+(CO₂), som er en drivhusgas. Drivhusgasser bidrager til global
+opvarmning og klimaforandringer. Desuden er fossile brændstoffer en
+begrænset ressource, som en dag slipper op.
+
+~ 23 ~
+
+Grøn energi
+Grøn energi kaldes også vedvarende energi. Det er energikilder, som ikke
+slipper op, fordi de fornyes naturligt. Eksempler er solenergi, vindenergi,
+vandkraft og biomasse. Når en vindmølle producerer strøm, omdannes
+vindens bevægelsesenergi direkte til elektrisk energi via en generator. I
+solceller omdannes solens strålingsenergi direkte til elektrisk energi.
+
+Se filmen om ubegrænset energi.
+
+Grøn energi udleder langt mindre CO₂ under drift end sort energi. Derfor
+spiller vedvarende energikilder en vigtig rolle i den grønne omstilling,
+hvor målet er at mindske udledningen af drivhusgasser. Udfordringen ved
+grøn energi er, at produktionen ofte afhænger af vejret. Solceller
+producerer kun strøm, når solen skinner, og vindmøller kun når det
+blæser. Derfor er energilagring og et fleksibelt elnet vigtige løsninger i
+fremtidens energisystem.
+
+~ 24 ~
+
+EFFEKT OG ENERGIFORBRUG
+Hvad er effekt
+Effekt beskriver, hvor hurtigt energi bruges eller omsættes. To maskiner
+kan bruge samme energi, men hvis den ene bruger energien hurtigere,
+har den større effekt.
+
+Effekt som fysisk størrelse
+Effekt måles i watt. Én watt betyder, at der bruges én joule energi pr.
+sekund.
+
+Elektrisk effekt
+I elektriske kredsløb kan effekten beregnes ud fra spænding og strøm
+med formlen P = U · I.
+
+P
+W
+U
+V
+
+I
+A
+
+~ 25 ~
+
+Energiforbrug i praksis
+Energiforbrug måles ofte i kilowatt-timer. Kilowatt-time er en praktisk
+energienhed, der bruges til at vurdere forbrug over tid.
+
+I hjemmet kan man aflæse sit forbrug direkte på elmåleren, som
+registrerer hvor mange kilowatt-timer husstanden samlet set bruger til
+eksempelvis belysning, opvarmning og elektriske apparater. På samme
+måde findes der på mange arbejdspladser mere avancerede elmålere,
+som ikke blot viser det samlede forbrug, men også kan opdele det på
+forskellige afdelinger eller maskiner, så virksomheden kan følge
+energiforbruget nøje og arbejde målrettet med at reducere unødvendigt
+energispild.
+
+~ 26 ~
+
+VIRKNINGSGRAD OG ENERGITAB
+Energitab
+Når energi omsættes, bliver den ikke udnyttet fuldt ud. Noget af energien
+bliver til nyttigt arbejde, mens resten bliver til energitab, ofte i form af
+varme.
+
+Virkningsgrad
+Virkningsgrad beskriver, hvor stor en del af den tilførte energi der bliver
+til nyttig energi. Virkningsgrad kan angives som brøk eller procent.
+
+Virkningsgrad i praksis
+Høj virkningsgrad betyder lille energitab og effektiv udnyttelse af
+energien. Lav virkningsgrad betyder stort energitab.
+
+~ 27 ~
+
+Beregning af virkningsgrad
+Virkningsgrad beskriver, hvor stor en del af den tilførte energi der bliver
+til nyttig energi. Virkningsgrad betegnes med η og beregnes som η =
+nyttig energi / tilført energi. Den kan også beregnes med effekt som η =
+nyttig effekt / tilført effekt.
+
+Resultatet angives ofte i procent ved at gange med 100. Hvis en el
+kogekedel tilføres 1000 J elektrisk energi og afgiver 800 J som termisk
+energi, bliver virkningsgraden η = 800 J / 1000 J = 0,80, hvilket svarer
+til 80 %. Det betyder, at 80 % af energien udnyttes nyttigt, mens 20 %
+går tabt, typisk som varme.
+𝜂% =
+
+𝐸𝑛𝑦𝑡𝑡𝑖𝑔
+∙ 100
+𝐸𝑡𝑖𝑙𝑓ø𝑟𝑡
+
+ɳ
+%
+100
+
+En
+J
+
+𝜂% =
+
+Et
+J
+
+𝑃𝑛𝑦𝑡𝑡𝑖𝑔
+∙ 100
+𝑃𝑡𝑖𝑙𝑓ø𝑟𝑡
+
+ɳ
+%
+100
+Pn
+
+Pt
+
+J
+
+J
+
+~ 28 ~
+
+VARME, TEMPERATUR OG ISOLERING
+Varme i arbejdet
+Varme spiller en central rolle i mange arbejdssituationer. Varme kan både
+være ønsket og uønsket. Varme bruges blandt andet til opvarmning af
+bygninger, opvarmning af vand og tørring af materialer. Samtidig opstår
+varme ofte som følge af energitab, når energi ikke udnyttes fuldt ud til
+det ønskede arbejde.
+
+Temperatur og varme
+Temperatur og varme er ikke det samme. Temperatur er et mål for, hvor
+varmt eller koldt noget er, mens varme er energi, der overføres fra ét
+sted til et andet på grund af en temperaturforskel. Temperatur måles i
+grader Celsius eller Kelvin. Varme strømmer altid fra varmt til koldt.
+
+~ 29 ~
+
+Celsius (°C) og Kelvin (K) er to temperaturskalaer, der måler den samme
+fysiske størrelse, nemlig temperatur. Celsius bruges i hverdagen, hvor
+vand fryser ved 0 °C og koger ved 100 °C ved normalt tryk.
+
+Kelvin bruges i naturvidenskab og starter ved det absolutte nulpunkt,
+som er den laveste mulige temperatur. Det absolutte nulpunkt er 0 K og
+svarer til −273,15 °C.
+
+Forskellen mellem de to skalaer er kun deres startpunkt, fordi én grad
+Celsius er lige så stor som én kelvin.
+
+Man kan omregne fra Celsius til Kelvin ved at lægge 273,15 til
+temperaturen i °C, og man kan omregne fra Kelvin til Celsius ved at
+trække 273,15 fra.
+
+Kelvin bruges især i beregninger med energi og varme, fordi skalaen
+passer direkte til fysiske formler.
+
+~ 30 ~
+
+Varme som energi
+Varme er en form for energi. Når varme overføres, overføres der energi.
+I tekniske systemer kan varme være ønsket nytteenergi eller uønsket
+energitab. Dette hænger sammen med begreberne nyttig energi,
+energitab og virkningsgrad.
+
+Varmeoverførsel
+Varme kan overføres på tre måder. Varmeledning sker i faste materialer,
+hvor metaller leder varme godt, mens isoleringsmaterialer leder varme
+dårligt. Varmestrømning sker i væsker og gasser, hvor varm luft eller
+væske stiger op, og kold synker ned. Varmestråling sker uden direkte
+kontakt, for eksempel når solen opvarmer jorden.
+
+Isolering
+Isolering virker ved at begrænse varmeoverførsel og holde varme inde i
+et system. God isolering reducerer energitab, giver lavere energiforbrug
+og højere virkningsgrad.
+
+Varmefylde (den specifikke varmekapacitet)
+Varmefylde fortæller, hvor meget energi der skal til for at opvarme 1 kg
+af et stof 1 °C eller 1 K. Varmefylde kaldes også den specifikke
+varmekapacitet, og enheden er J/(kg·K).
+
+~ 31 ~
+
+Vand har en høj varmefylde på cirka 4.180 J/(kg·K). Det betyder, at der
+skal tilføres 4.180 J energi for at opvarme 1 kg vand 1 °C. Hvis 1 kg vand
+opvarmes fra 20 °C til 30 °C, er temperaturstigningen 10 K.
+
+Den termiske energi
+Termisk energi er den energi, som et stof har på grund af temperaturen.
+Den skyldes, at partiklerne i stoffet bevæger sig. Jo hurtigere partiklerne
+bevæger sig, jo højere er temperaturen, og jo større er den termiske
+energi.
+
+I faste stoffer svinger partiklerne omkring faste pladser. I væsker og
+gasser bevæger partiklerne sig mere frit. Når temperaturen stiger, øges
+partiklernes bevægelse, og den termiske energi bliver større.
+
+Termisk energi måles i joule (J). Den afhænger af både temperatur,
+masse og stof. Et stort legeme kan derfor have mere termisk energi end
+et lille, selv om temperaturen er den samme.
+
+~ 32 ~
+
+I praksis betyder det, at en stor beholder med varmt vand indeholder
+mere termisk energi end en lille kop med samme temperatur
+Den termiske energi Et kan beregnes med formlen;
+𝐸𝑡 = 𝑚 · 𝑐 · 𝛥𝑇
+Indsættes tallene fås Et = 1 kg · 4.180 J/(kg·K) · 10 K = 41.800 J.
+
+Et
+J
+m
+kg
+
+c
+J/kg·K
+
+ΔT
+K
+
+Vand kræver altså meget energi for at blive varmet op. Derfor kan vand
+lagre meget varme, og det har stor betydning i tekniske anlæg og for
+klimaet.
+
+~ 33 ~
+
+EL OG MAGNETISME
+Elektricitet i arbejdet
+Elektrisk energi er en af de mest anvendte energiformer i moderne
+arbejde. El bruges til drift af maskiner, belysning, opvarmning samt
+styring og regulering. For elektrikeren er el et kerneområde, og for
+tømreren er el et vigtigt hjælpeområde, som skal forstås for at kunne
+arbejde sikkert.
+
+Elektrisk strøm
+Elektrisk strøm er bevægelse af elektriske ladninger i en leder. I metaller
+er det elektroner, der bevæger sig gennem materialet. Strøm betegnes
+med I og måles i ampere.
+
+Figur 5 En kobberleder med plastisolering omkring. Elektronerne (e-) bevæger sig gennem
+metallet, mens isoleringen holder strømmen inde i lederen og beskytter omgivelserne.
+
+Isolering
+Isolering er det materiale, der ligger uden om en elektrisk leder og
+forhindrer strømmen i at komme i kontakt med omgivelserne.
+Når der løber elektrisk strøm i en kobberleder, bevæger elektronerne sig
+gennem metallet. Hvis lederen ikke var omgivet af isolering, kunne
+strømmen løbe over i andre materialer eller gennem en person. Det kan
+give kortslutning, fejl i installationen eller elektrisk stød.
+
+Isoleringen er derfor afgørende for både sikkerhed og funktion. Den
+sørger for, at strømmen kun bevæger sig i den ønskede retning gennem
+kredsløbet.
+
+~ 34 ~
+
+Typiske isoleringsmaterialer er plast og gummi. De kaldes isolatorer, fordi
+de har høj elektrisk modstand. Det betyder, at elektroner ikke let kan
+bevæge sig gennem materialet.
+
+For elektrikeren har isoleringen flere funktioner. Den beskytter mod
+berøring af spændingsførende dele. Den forhindrer, at to ledere med
+forskellig spænding rører hinanden. Den beskytter også lederen
+mekanisk mod slid, fugt og kemisk påvirkning.
+
+Hvis isoleringen bliver beskadiget, kan det føre til overgangsmodstand,
+varmgang og i værste fald brand. Derfor er kontrol af isoleringens tilstand
+en vigtig del af både installation og vedligeholdelse.
+
+Spænding
+Spænding er den kraft, der sætter elektronerne i bevægelse. Spænding
+betegnes med U og måles i volt. Uden spænding løber der ingen strøm.
+Der findes to grundlæggende typer spænding: AC og DC.
+DC
+DC betyder Direct Current. På dansk kaldes det jævnspænding. Ved DC
+har spændingen samme retning hele tiden. Strømmen løber kun én vej.
+Et batteri leverer DC. Det gør en solcelle også.
+
+AC betyder Alternering Current. På dansk kaldes det vekselspænding.
+Ved AC skifter spændingen retning mange gange i sekundet. I Danmark
+skifter retningen 50 gange i sekundet. Det kaldes 50 hertz (Hz).
+Stikkontakten i en bygning leverer AC. Mange apparater omdanner først
+AC til DC, før de bruger energien. Det gælder for eksempel mobilopladere
+og computere.
+
+~ 35 ~
+
+Modstand
+Modstand beskriver, hvor svært elektronerne har ved at bevæge sig
+gennem et materiale. Modstand betegnes med R og måles i ohm.
+Ohms lov
+Sammenhængen mellem spænding, strøm og modstand beskrives med
+Ohms lov: U = R · I.
+
+U
+V
+R
+Ω
+
+I
+A
+
+Elektrisk effekt
+
+P
+W
+U
+V
+
+I
+A
+
+Elektrisk effekt beskriver, hvor hurtigt elektrisk energi omsættes.
+Effekten beregnes med formlen P = U · I.
+
+~ 36 ~
+
+Figur 6 Vandanalogien viser, hvordan spænding svarer til tryk, strøm til vandets bevægelse,
+modstand til en ventil der bremser flowet, og elektrisk effekt til det arbejde, som udføres, når
+energien omsættes.
+
+Elektrisk effekt og varme
+Når strøm løber gennem en modstand, omsættes elektrisk energi til
+varme. For stor effekt kan føre til overophedning og brandfare.
+
+~ 37 ~
+
+Elektriske kredsløb
+Et elektrisk kredsløb er en lukket forbindelse, hvor strøm kan løbe fra en
+spændingskilde gennem forskellige komponenter og tilbage igen.
+Knudepunkt
+Et knudepunkt er et sted i et kredsløb, hvor flere ledninger mødes.
+Kirchhoffs 1. lov siger, at den samlede strøm, der løber ind i et
+knudepunkt, er lig med den samlede strøm, der løber ud.
+
+Strøm forsvinder ikke i et knudepunkt, men fordeles. Hvis 6 A løber ind i
+et knudepunkt, skal der også løbe 6 A ud, for eksempel 2 A i én gren og
+4 A i en anden gren. Loven bygger på, at elektrisk ladning bevares.
+
+Figur 7 Kirchhoffs 1. lov: 6 A løber ind i knudepunktet og fordeler sig i fx 2 A og 4 A (afhængig af
+belastningen i grenene - men sen samlede strøm bevares.
+
+Seriekobling af glødelamper
+I en seriekobling er komponenterne koblet efter hinanden i én
+sammenhængende kreds. Strømmen er den samme gennem alle
+glødelamper.
+Hvis én glødelampe går i stykker, afbrydes hele kredsløbet, og alle lamper
+slukker.
+Den samlede modstand bliver større, når flere glødelamper kobles i serie,
+og derfor bliver strømmen i kredsløbet mindre. Spændingen fordeles
+mellem lamperne.
+
+~ 38 ~
+
+Figur 8 I en seriekobling løber strømmen samme vej gennem alle tre glødelamper, og den samme
+strøm passerer gennem hele kredsløbet.
+
+Parallelkobling af glødelamper
+I en parallelkobling er komponenterne koblet i hver sin gren. Spændingen
+er den samme over hver glødelampe, mens strømmen deles i
+knudepunkterne efter Kirchoffs 1. lov.
+
+Hvis én glødelampe går i stykker, kan de andre stadig lyse, fordi
+kredsløbet ikke afbrydes. Den samlede modstand bliver mindre, når flere
+glødelamper kobles parallelt, og derfor bliver den samlede strøm fra
+spændingskilden større.
+
+Figur 9 Spændingen er den samme over alle tre glødelamper, men strømmen deles i
+knudepunkterne og løber i hver sin gren.
+
+Modstand og temperatur i en glødelampe
+En glødelampe har en glødetråd af metal. Når strømmen løber gennem
+glødetråden, bliver den meget varm. Når temperaturen stiger, stiger
+modstanden i metallet. Det betyder, at en kold glødelampe har lav
+modstand, men når den bliver varm og lyser, bliver modstanden større.
+I det øjeblik man tænder en glødelampe, løber der derfor en stor
+startstrøm, fordi modstanden er lav. Kort efter stiger temperaturen,
+modstanden bliver større, og strømmen falder til sin normale værdi.
+Modstanden i en glødelampe afhænger altså af temperaturen. Jo varmere
+glødetråden bliver, desto større bliver modstanden.
+
+~ 39 ~
+
+Måling af elektriske størrelser.
+
+I elektrisk arbejde er det nødvendigt at kunne måle korrekt. Målinger
+bruges til fejlfinding, kontrol og dokumentation. De vigtigste elektriske
+størrelser er spænding, strøm, modstand og effekt, og hver størrelse
+måles med et bestemt instrument og på en bestemt måde.
+
+Spænding betegnes med U og måles i volt (V). Spænding er den
+elektriske trykforskel mellem to punkter i et kredsløb. Den måles med et
+voltmeter,
+
+som
+
+kobles
+
+parallelt
+
+over
+
+den
+
+komponent
+
+eller
+
+spændingskilde, man vil undersøge. Det betyder, at måleledningerne
+placeres på hver side af komponenten. Et voltmeter har meget stor indre
+modstand, så det påvirker kredsløbet mindst muligt under målingen. I
+praksis anvendes ofte et multimeter indstillet på måling af volt, enten
+jævnspænding (DC) eller vekselspænding (AC) afhængigt af opgaven.
+
+Strøm betegnes med I og måles i ampere (A). Strøm er bevægelse af
+elektriske ladninger gennem en leder. Strøm måles med et amperemeter,
+som skal kobles i serie med kredsløbet. Det betyder, at strømmen skal
+
+~ 40 ~
+
+løbe gennem instrumentet. Et amperemeter har meget lille indre
+modstand. Hvis det kobles forkert parallelt, kan det medføre kortslutning
+og beskadigelse af både instrument og installation. I praksis bruges enten
+et multimeter indstillet på ampere eller en tangamperemeter, som kan
+måle strøm uden at afbryde kredsløbet.
+
+Modstand betegnes med R og måles i ohm (Ω). Modstand beskriver, hvor
+meget en komponent begrænser strømmen. Modstand måles med et
+ohmmeter, som sender en lille intern strøm gennem komponenten og
+beregner modstanden ud fra spændingsfaldet. Det er vigtigt, at
+kredsløbet er spændingsløst under måling af modstand, da der ellers kan
+opstå fejlmålinger eller skade på instrumentet. I praksis anvendes et
+multimeter indstillet på ohm.
+
+Effekt betegnes med P og måles i watt (W). Effekt beskriver, hvor hurtigt
+elektrisk energi omsættes. Sammenhængen mellem størrelserne er givet
+ved formlen P = U · I. Effekt kan måles direkte med et wattmeter, som
+måler både spænding og strøm samtidig og beregner effekten. I mange
+installationer anvendes energimålere eller effektmålere, mens effekten i
+mindre kredsløb ofte beregnes ud fra de målte værdier for spænding og
+strøm.
+
+For elektrikeren er korrekt måling en grundlæggende del af sikkert og
+fagligt korrekt arbejde. For lav spænding kan give driftsproblemer, for
+høj strøm kan føre til varmgang, for stor modstand kan skyldes dårlig
+forbindelse, og for høj effekt kan overbelaste udstyr. Derfor er forståelse
+af både måleinstrumenter og korrekt tilslutning afgørende i det daglige
+arbejde.
+
+~ 41 ~
+
+Magnetisme
+
+Magnetisme er et fysisk fænomen, der opstår, når elektriske ladninger
+bevæger sig. Magnetisme hænger derfor tæt sammen med elektricitet.
+
+En magnet har to poler: en nordpol og en sydpol. Lige poler frastøder
+hinanden, og modsatte poler tiltrækker hinanden. Det betyder, at en
+nordpol altid vil søge mod en sydpol.
+
+Permanent magnet
+En permanent magnet er et materiale, som selv danner et stabilt
+magnetfelt uden at være tilsluttet strøm. Magneten har altid to poler: en
+nordpol og en sydpol. Magnetfeltet går fra nordpol til sydpol uden for
+magneten.
+
+~ 42 ~
+
+Opbygning
+Inde i en permanent magnet findes mange små magnetiske områder,
+som kaldes magnetiske domæner. I hvert domæne er atomernes
+magnetiske momenter rettet i samme retning.
+
+I et almindeligt stykke jern peger domænerne i mange forskellige
+retninger, og de ophæver derfor hinanden. Når materialet magnetiseres,
+rettes mange domæner ind i samme retning. Derved dannes et samlet
+magnetfelt.
+
+Materialer,
+
+der
+
+kan
+
+bruges
+
+til
+
+permanente
+
+magneter,
+
+kaldes
+
+ferromagnetiske materialer. Det gælder blandt andet jern, kobolt og
+nikkel samt legeringer som neodym-jern-bor.
+
+Funktion
+En permanent magnet virker ved, at de rettede domæner skaber et ydre
+magnetfelt.
+
+Magnetfeltet
+
+kan
+
+påvirke
+
+andre
+
+magneter
+
+og
+
+ferromagnetiske materialer.
+
+Lige poler frastøder hinanden, og modsatte poler tiltrækker hinanden.
+Magnetens styrke afhænger af materialet og af, hvor godt domænerne er
+rettet ind.
+
+Fremstilling
+En permanent magnet fremstilles ved først at forme materialet og
+derefter magnetisere det i et stærkt ydre magnetfelt. Det stærke felt
+tvinger domænerne til at rette sig ind i samme retning.
+
+~ 43 ~
+
+I moderne industri bruges ofte pulvermetallurgi. Her presses og sinteres
+et magnetisk pulver, hvorefter emnet magnetiseres i en kraftig
+magnetiseringsspole.
+
+Se filmen om metallernes historie og om metalkorn.
+
+For at magneten kan bevare sin magnetisering, skal materialet have høj
+koercivitet. Det betyder, at domænerne ikke let ændrer retning igen.
+
+Permanentmagneter
+
+anvendes
+
+i
+
+motorer,
+
+generatorer,
+
+højttalere,
+
+sensorer og relæer. De er en grundlæggende del af mange elektriske og
+mekaniske systemer.
+
+Et magnetfelt
+Et magnetfelt er det område omkring en magnet eller en strømførende
+leder, hvor der virker magnetiske kræfter. Magnetfeltet kan ikke ses
+direkte, men det kan påvises med jernfilspåner eller en kompasnål. Feltet
+beskrives med feltlinjer, som går fra nordpol til sydpol uden for
+magneten.
+
+~ 44 ~
+
+Jorden fungerer som en stor magnet. Den har en magnetisk nordpol og
+en magnetisk sydpol. Magnetfeltet dannes i Jordens ydre kerne, hvor
+flydende jern bevæger sig. Bevægelsen af det elektrisk ledende materiale
+skaber et magnetfelt omkring hele planeten.
+
+Jordens magnetfelt omgiver Jorden som et usynligt felt. Feltet kan
+påvises med en kompasnål, som altid indstiller sig i nord-syd-retning. Det
+skyldes, at kompasnålen retter sig ind efter feltlinjerne i Jordens
+magnetfelt.
+
+Magnetfeltet beskytter også Jorden mod skadelig stråling fra Solen. Uden
+dette felt ville ladede partikler fra Solen lettere kunne ramme Jordens
+overflade. Jordens magnetfelt er derfor både vigtigt for navigation og for
+livet på Jorden.
+
+Se film om jordens magnetfelt
+
+~ 45 ~
+
+Magnetisme opstår også omkring en elektrisk leder, når der løber strøm
+gennem den. Jo større strøm, desto stærkere magnetfelt. Dette princip
+bruges i motorer, generatorer og relæer.
+
+Magnetisme er derfor ikke kun noget, der findes i permanente magneter.
+Det er en grundlæggende del af elektriske installationer og maskiner,
+hvor bevægelse og strøm påvirker hinanden.
+
+Jorden har et magnetfelt, som gør, at et kompas peger mod nord og
+følger de magnetiske feltlinjer.
+
+Elektromagnetisme
+Når elektrisk strøm løber i en leder, opstår der et magnetfelt. Denne
+sammenhæng
+
+mellem
+
+elektricitet
+
+og
+
+magnetisme
+
+kaldes
+
+elektromagnetisme og bruges blandt andet i motorer og transformere.
+
+Figur 10 Når der løber strøm gennem en kobberleder dannes der et magnetisk felt omkring
+lederen.
+
+~ 46 ~
+
+Elektromagnet
+En elektromagnet er en magnet, der dannes ved hjælp af elektrisk strøm.
+Når der løber strøm gennem en leder, opstår der et magnetfelt omkring
+lederen. Hvis lederen formes som en spole, forstærkes magnetfeltet,
+fordi magnetfelterne fra hver vinding lægger sig sammen og danner et
+samlet felt.
+
+En elektromagnet består typisk af en spole af isoleret kobberledning, en
+jernkerne inde i spolen og en strømkilde. Når strømmen løber gennem
+spolen, dannes der et magnetfelt omkring hver enkelt vinding. Disse
+magnetfelter forstærker hinanden og skaber et stærkere samlet
+magnetfelt
+
+omkring
+
+spolen.
+
+Jernkernen
+
+gør
+
+magnetfeltet
+
+endnu
+
+kraftigere, fordi jern er et ferromagnetisk materiale, som leder og
+koncentrerer magnetiske feltlinjer. Kernen samler feltet og øger
+magnetens styrke.
+
+Elektromagneten virker kun, så længe der løber strøm. Når strømmen
+afbrydes,
+
+forsvinder
+
+magnetfeltet
+
+næsten
+
+helt.
+
+Det
+
+betyder,
+
+at
+
+magnetens virkning kan styres direkte med strømmen. Magnetens styrke
+afhænger af strømmens størrelse, antallet af vindinger i spolen og
+materialet i kernen. Jo større strøm og jo flere vindinger, desto stærkere
+magnetfelt.
+
+I
+
+praksis
+
+anvendes
+
+elektromagneter
+
+i
+
+relæer,
+
+magnetventiler,
+
+løftemagneter, motorer og transformere. Fordelen ved en elektromagnet
+er, at den kan tændes og slukkes og reguleres. Elektromagneten viser
+derfor tydeligt sammenhængen mellem elektricitet og magnetisme: Når
+der løber strøm, dannes der et magnetfelt, som kan udnyttes teknisk i
+elektriske og mekaniske systemer.
+
+~ 47 ~
+
+~ 48 ~
+
+Magnetisk induktion
+Magnetisk induktion er det fænomen, hvor der opstår en elektrisk
+spænding i en leder, når magnetfeltet omkring lederen ændrer sig. Det
+afgørende er ikke, at der findes et magnetfelt, men at magnetfeltet
+varierer med tiden.
+
+Når en magnet bevæges ind i en spole, ændres den magnetiske flux
+gennem spolen. Denne ændring skaber en induceret spænding. Hvis
+spolen er en del af et lukket kredsløb, vil der løbe en strøm. Spændingens
+størrelse afhænger af, hvor hurtigt magnetfeltet ændrer sig, og af antallet
+af vindinger i spolen.
+
+~ 49 ~
+
+Transformation
+En transformer er en elektrisk komponent, der ændrer spænding ved
+hjælp af elektromagnetisk induktion. Den består af en jernkerne og to
+spoler: en primærspole og en sekundærspole.
+
+Når der løber vekselstrøm i primærspolen, dannes et skiftende magnetfelt
+i jernkernen. Det skiftende magnetfelt inducerer en spænding i
+sekundærspolen. Der er ingen elektrisk forbindelse mellem de to spoler.
+Energien overføres gennem magnetfeltet i kernen.
+
+Sammenhængen mellem spænding og vindingstal skrives:
+𝑈2 𝑁2
+=
+𝑈1 𝑁1
+Hvor;
+U1 er spændingen på primærsiden i Volt
+U2 er spændingen på sekundærsiden i Volt
+N1 er antal vindinger i primærspolen i antal
+N2 er antal vindinger i sekundærspolen i antal
+
+U2
+V
+U2
+V
+
+Hvis sekundærspolen har flere vindinger end primærspolen, øges
+spændingen. Hvis den har færre vindinger, sænkes spændingen.
+
+~ 50 ~
+
+For en ideel transformer gælder, at effekten er den samme på begge
+sider: P1 = P2. Da effekten beregnes som P = U · I betyder det, at
+strømmen ændrer sig omvendt af spændingen.
+
+Transformeren bruges i elnettet til at hæve spændingen ved transport og
+sænke den igen ved forbrug. Den er et centralt eksempel på anvendt
+magnetisk induktion.
+
+~ 51 ~
+
+KRAFT, BELASTNING OG KONSTRUKTION
+Kræfter i konstruktioner
+I konstruktioner virker der kræfter på materialer og bygningsdele. Hvis
+kræfterne ikke vurderes korrekt, kan det føre til nedbøjning, revner eller
+sammenbrud.
+
+Hvad er en kraft
+En kraft er noget, der kan ændre bevægelse eller ændre form. En kraft
+betegnes med F og måles i newton (N).
+
+En kraft kan få en genstand til at begynde at bevæge sig, standse, ændre
+retning eller ændre hastighed. Hvis du skubber til en kasse på gulvet,
+påvirker du den med en kraft. Hvis du trykker på et stykke træ, kan det
+bøje. Her ændrer kraften genstandens form.
+
+~ 52 ~
+
+Tyngdekraft
+
+Tyngdekraften trækker alle genstande mod jorden og giver dem vægt.
+Sammenhængen mellem masse og kraft kan skrives som F = m · g.
+
+F
+N
+m
+kg
+
+g
+m/s2
+
+~ 53 ~
+
+Belastning
+Belastning beskriver, hvor stor kraft en konstruktion udsættes for.
+Belastning kan være konstant eller varierende, for eksempel fra sne og
+vind.
+
+Træk, tryk og bøjning
+Materialer kan belastes ved træk, tryk eller bøjning. For store
+belastninger kan give permanente skader på konstruktionen.
+
+Ved træk bliver materialet trukket fra hinanden, som når en wire holder
+en last. Ved tryk bliver materialet presset sammen, som når en søjle
+bærer et loft. Ved bøjning opstår der både træk og tryk i samme
+konstruktion, for eksempel i en bjælke, der bærer et tag. Hvis
+belastningen overstiger materialets styrke, kan det føre til revner,
+nedbøjning eller i værste fald sammenbrud. Derfor er det vigtigt at vælge
+rigtige materialer og dimensioner, så konstruktionen kan modstå de
+kræfter, den udsættes for i praksis.
+
+~ 54 ~
+
+Dimensionering
+Dimensionering handler om at vælge materialer og dimensioner, så
+konstruktionen kan holde til de kræfter, den udsættes for.
+
+Når man dimensionerer, skal man vide, hvilke kræfter der virker på
+konstruktionen. Det kan være vægt, tryk, træk, vindpåvirkning eller
+belastning fra personer og inventar. Hvis materialet er for svagt eller for
+tyndt, kan konstruktionen bøje, revne eller i værste fald bryde sammen.
+Hvis det omvendt er overdimensioneret, bruges der unødigt meget
+materiale, og arbejdet bliver dyrere og tungere end nødvendigt.
+
+I fysik hænger dimensionering tæt sammen med begreberne kraft,
+spænding og tryk. En kraft måles i newton (N). Når en kraft fordeles over
+et areal, opstår der en spænding i materialet. Jo mindre areal kraften
+virker på, desto større bliver belastningen pr. arealenhed. Derfor har
+tykkelse og bredde stor betydning for styrken.
+
+Et eksempel fra tømrerfaget er dimensionering af en bjælke i en
+etageadskillelse. En bjælke skal bære både sin egen vægt og vægten af
+gulv, møbler og personer. Hvis spændet mellem væggene er stort, vil
+
+~ 55 ~
+
+bjælken blive udsat for større bøjning. En tynd bjælke vil derfor kunne
+give efter og begynde at hænge på midten. For at undgå dette vælger
+tømreren en bjælke med passende højde og bredde. En højere bjælke
+kan
+
+modstå
+
+større
+
+bøjning,
+
+fordi
+
+materialet
+
+ligger
+
+længere
+
+fra
+
+neutralaksen og dermed bedre optager de indre kræfter.
+
+I praksis betyder det, at tømreren ikke kun tænker i længde, men også i
+tværsnit. To bjælker med samme bredde kan have meget forskellig
+styrke, hvis den ene er højere end den anden. Dimensioneringen skal
+tage højde for både spændvidde, belastning og materialets styrke.
+
+Korrekt dimensionering er derfor afgørende for sikkerhed, holdbarhed og
+økonomi. Det er fysikken bag konstruktionen, der sikrer, at arbejdet
+holder i mange år.
+
+~ 56 ~
+
+Et regneeksempel
+En tagpakke med massen 60 kg giver en kraft på F = m * g = 60 kg *
+9,82 m/s2 = 589 N. Det er den belastning, spæret udsættes for.
+
+Antag, at et tagspær 45 mm × 195 mm med en spændvidde på 3,0 m
+maksimalt må belastes med 800 N som punktlast midt på spændet. Hvis
+hele lasten ligger på ét spær, er belastningen 589 N. Det er mindre end
+800 N, og spæret kan derfor bære lasten.
+
+Fordeles lasten på to spær, bliver belastningen cirka 589 N / 2 = 295 N
+pr. spær. Belastningen pr. spær bliver dermed væsentligt mindre.
+Eksemplet viser, at lastfordeling øger sikkerheden og er en vigtig del af
+dimensionering.
+
+~ 57 ~
+
+De simple maskiner og løftestangsprincippet
+
+I mekanik findes en gruppe grundlæggende hjælpemidler, som kaldes de
+simple maskiner. Det er enkle konstruktioner, der gør arbejde lettere ved
+at ændre kraftens størrelse eller retning. De skaber ikke energi, men de
+udnytter kraft og afstand på en smart måde.
+
+De klassiske simple maskiner er løftestang, skråplan, hjul og aksel, talje,
+kile og skrue. I tømrerfaget møder man især løftestang, kile og skråplan.
+I dette afsnit arbejder vi især med løftestangsprincippet, fordi det er
+centralt i både værktøj og konstruktion.
+
+En løftestang er en stang, der kan dreje om et fast punkt. Det faste punkt
+kaldes omdrejningspunkt. Når
+
+en
+
+kraft virker
+
+i
+
+en
+
+afstand fra
+
+omdrejningspunktet, opstår der et moment. Moment beskriver den
+drejende virkning.
+
+~ 58 ~
+
+Sammenhængen skrives:
+𝑀 = 𝐹 ∙ 𝑙
+Hvor;
+M er moment i newtonmeter (Nm)
+F er kraft i newton (N)
+l er kraftarm i meter (m)
+
+M
+Nm
+F
+N
+
+l
+m
+
+Ved ligevægt gælder:
+𝐹1 ∙ 𝑙1 = 𝐹2 ∙ 𝑙2
+Dvs:
+𝑀1 = 𝑀2
+Det
+
+betyder,
+
+at
+
+både
+
+kraftens
+
+omdrejningspunktet har betydning.
+
+~ 59 ~
+
+størrelse
+
+og
+
+afstanden
+
+til
+
+Når et søm trækkes ud med et koben, fungerer kobenets støtte mod
+træet
+
+som
+
+omdrejningspunkt.
+
+Hånden
+
+sidder
+
+langt
+
+fra
+
+omdrejningspunktet, mens sømmet sidder tæt på. Den lange kraftarm
+gør, at en lille håndkraft kan give en stor kraft på sømmet.
+
+Når
+
+en
+
+lægtehammer
+
+bruges
+
+til
+
+at
+
+vippe
+
+et
+
+søm
+
+op,
+
+virker
+
+hammerhovedet som omdrejningspunkt. Holder man yderst på skaftet,
+bliver kraftarmen større, og momentet øges. Holder man tæt på hovedet,
+bliver kraftarmen kort, og man skal bruge større kraft. Derfor kan man
+sige, at skaftets ende fungerer som hammerens “gashåndtag”.
+
+~ 60 ~
+
+Hvis en planke ligger på en klods og man står på den ene side, opstår
+der et moment omkring understøtningen. Jo længere ude man står, desto
+større bliver momentet. Hvis to personer står på hver sin side, afhænger
+balancen af både deres vægt og deres afstand til omdrejningspunktet.
+
+Løftestangsprincippet viser, at man kan øge den drejende virkning ved at
+øge afstanden til omdrejningspunktet. Det er et grundlæggende princip i
+tømrerens arbejde og bruges både i værktøj og i konstruktioner.
+
+Faglig definition:
+Løftestangsprincippet
+
+beskriver
+
+sammenhængen
+
+mellem
+
+kraft
+
+og
+
+kraftarm omkring et omdrejningspunkt, hvor produktet F × l bestemmer
+den drejende virkning.
+
+~ 61 ~
+
+TRYK OG MASSEFYLDE I BYGGERI
+Tryk
+Tryk beskriver, hvordan en kraft virker fordelt over et areal. Tryk
+betegnes med p og beregnes som;
+𝑝 =
+
+𝐹
+𝐴
+
+p
+Pa
+F
+N
+
+A
+m2
+
+I formlen er F kraften målt i newton (N), og A er arealet målt i
+kvadratmeter (m2). Når man dividerer newton med kvadratmeter, får
+man SI-enheden for tryk, som kaldes pascal (Pa). 1 pascal svarer til 1 N
+pr. m2. Det betyder, at hvis en kraft på 1 newton fordeles jævnt over et
+areal på 1 kvadratmeter, er trykket 1 pascal.
+
+I praksis er 1 pascal en meget lille enhed. Derfor bruger man ofte
+kilopascal (kPa), hvor 1 kPa = 1000 Pa, eller megapascal (MPa), hvor 1
+MPa = 1 000 000 Pa. For eksempel måles dæktryk typisk i kilopascal,
+mens materialers styrke ofte angives i megapascal.
+
+Formlen viser, at trykket bliver større, hvis kraften øges, eller hvis arealet
+bliver mindre. Den samme kraft kan altså give meget forskelligt tryk
+afhængigt af, hvor stort et område den virker på. Det er denne
+sammenhæng, der er central i både konstruktion, mekanik og tekniske
+installationer
+
+~ 62 ~
+
+Tryk i praksis
+Den samme kraft kan give forskelligt tryk afhængigt af arealet. Lille areal
+giver stort tryk, og stort areal giver lille tryk.
+
+I byggeriet har dette stor betydning for en tømrer. Når en stolpe eller en
+bjælke overfører last til underlaget, fordeles kraften over det areal, som
+har kontakt med fundamentet. Hvis arealet er for lille, kan trykket blive
+så stort, at træet trykkes sammen, eller at underlaget sætter sig. Derfor
+anvendes for eksempel fodplader under stolper eller bredere remme og
+bjælker, så kraften fordeles over et større areal. På den måde reduceres
+trykket, og konstruktionen bliver mere stabil og sikker
+
+Tryk i væsker
+I væsker stiger trykket med dybden. Dette er vigtigt ved vurdering af
+vandtryk mod fundamenter og kældervægge.
+
+I byggeriet betyder det, at den nederste del af en kældervæg udsættes
+for større vandtryk end den øverste del. En tømrer skal derfor sikre, at
+konstruktionen kan modstå det øgede tryk i bunden, og at materialer
+omkring terræn er korrekt opbygget og beskyttet mod fugt.
+
+~ 63 ~
+
+Massefylde
+Massefylde beskriver, hvor meget masse der er i et bestemt volumen.
+Massefylde betegnes med ρ og beregnes som;
+𝜌 =
+
+𝑚
+𝑉
+
+ρ
+
+kg/m3
+m
+kg
+
+V
+m3
+
+Se en film om massefylde.
+Massefylde kaldes også densitet. Den angiver, hvor tæt stoffets masse er
+samlet. I SI-systemet måles massefylde i kg/m3. Et materiale med høj
+massefylde har meget masse i et lille volumen, mens et materiale med
+lav massefylde har mindre masse i samme volumen. For eksempel har
+stål en høj massefylde, mens vand og luft har lavere massefylde.
+Massefylde bruges til at sammenligne materialer og til at vurdere vægt,
+belastning og opdrift i tekniske sammenhænge.
+
+Hvad vil du helst have over fødderne - et kg. bly eller et kg fjer?
+
+~ 64 ~
+
+Massefylde i byggeri
+Materialer med høj massefylde giver større belastning end materialer
+med lav massefylde ved samme volumen.
+
+I byggeriet har massefylde direkte betydning for dimensionering og
+belastning. Når en konstruktion udføres i et materiale med høj
+massefylde, bliver egenvægten større. Det betyder, at bjælker, søjler og
+fundamenter skal kunne bære en større kraft. Omvendt vil materialer
+med lav massefylde give en mindre egenvægt og dermed mindre
+belastning på den bærende konstruktion.
+
+For en tømrer er dette tydeligt ved valg mellem træ, stål og beton. En
+bjælke i stål eller beton med samme volumen som en træbjælke vil veje
+væsentligt mere og dermed belaste fundament og understøtninger mere.
+Derfor anvendes træ ofte i tagkonstruktioner, hvor lav egenvægt er en
+fordel. Ved tunge materialer skal der tages højde for større kræfter i både
+samlinger og underliggende konstruktioner.
+
+Massefylde hænger derfor tæt sammen med både vægt, kraft og
+dimensionering. Ved samme volumen vil et tungt materiale give større
+belastning end et let materiale.
+
+~ 65 ~
+
+EKSPERIMENTER OG FYSIK I PRAKSIS
+Hvorfor laver vi eksperimenter
+Fysik handler ikke kun om at læse teori og regne opgaver. For at forstå,
+hvordan fysik virker i praksis, er det nødvendigt at undersøge
+virkeligheden. Det gør man ved at lave eksperimenter. Et eksperiment er
+en planlagt undersøgelse, hvor man afprøver en idé, laver målinger og
+observerer, hvad der sker. Eksperimenter bruges til at teste, om noget
+virker som forventet, finde sammenhænge mellem fysiske størrelser og
+forklare fejl og problemer i praksis. I erhvervsuddannelserne svarer
+eksperimenter til afprøvning, test og fejlfinding og er derfor tæt knyttet
+til det daglige arbejde.
+
+~ 66 ~
+
+Den naturvidenskabelige metode
+Når man laver eksperimenter i fysik, arbejder man ofte efter en fast
+metode. Den naturvidenskabelige metode sikrer, at arbejdet bliver
+systematisk og overskueligt. Metoden består af spørgsmål, hypotese,
+forsøg, data og konklusion. Denne måde at arbejde på minder om den
+måde, man i praksis finder årsager til fejl, tester løsninger og
+dokumenterer, at noget virker.
+
+~ 67 ~
+
+Planlægning af forsøg
+Et forsøg skal planlægges, før det udføres. God planlægning gør forsøget
+mere sikkert, mere overskueligt og lettere at gentage. Ved planlægning
+tager man stilling til formålet, hvilket udstyr der bruges, hvordan forsøget
+udføres, hvilke målinger der skal laves, og hvilke enheder der anvendes.
+Manglende
+
+planlægning kan føre
+
+til upræcise
+
+konklusioner og farlige situationer.
+
+~ 68 ~
+
+målinger, forkerte
+
+Forsøgsskabelon
+For at skabe struktur bruges en fast forsøgsskabelon. Den samme
+skabelon bruges i undervisningen og til prøven. En typisk skabelon
+indeholder
+
+formål,
+
+teori,
+
+udstyr,
+
+beskrivelse
+
+af
+
+forsøget,
+
+data,
+
+beregninger og konklusion. Denne opbygning hjælper eleven med at
+arbejde systematisk.
+
+~ 69 ~
+
+Data og usikkerhed
+Data er de oplysninger, man indsamler i et forsøg, både målinger og
+observationer. Det er vigtigt at skrive data tydeligt, bruge korrekte SIenheder og adskille målinger fra forklaringer. Ingen målinger er helt
+præcise, og der vil altid være usikkerhed, som kan skyldes måleudstyr,
+aflæsning og omgivelser. Små afvigelser betyder ikke, at forsøget er
+forkert, men at man skal vurdere resultaterne fagligt.
+
+Forsøg i fagene
+I arbejdet med fysik udføres der forsøg, som er relevante for fagene.
+Elektrikere arbejder for eksempel med måling af strøm, spænding,
+modstand og effekt, herunder elkedelforsøg, hvor elektrisk energi
+omdannes til varme. Tømrere arbejder for eksempel med forsøg om
+varme, isolering, energitab og belastning, hvor temperatur måles over
+tid og energibesparelse vurderes.
+
+~ 70 ~
+
+Eksamen og forsøg
+Et typisk eksamensrelevant forsøg er elkedelforsøget. Formålet kan være
+at undersøge sammenhængen mellem effekt, energi og temperatur. I
+forsøget måles tid og temperatur, og der bruges en kendt effekt.
+Beregninger kan for eksempel udføres med sammenhængen mellem
+effekt og tid. Forsøget viser tydeligt sammenhængen mellem teori og
+praksis.
+
+~ 71 ~
+
+Fra forsøg til forståelse
+Et forsøg giver først fuld mening, når man forstår resultaterne, kan
+forklare dem med fysik og kan koble dem til praktisk arbejde. Formålet
+med forsøg er derfor ikke kun at måle, men at skabe forståelse og faglig
+sikkerhed.
+
+~ 72 ~
+
+DATA, DOKUMENTATION OG IT
+Data
+Data
+
+er
+
+de
+
+oplysninger,
+
+man
+
+indsamler
+
+gennem
+
+målinger
+
+og
+
+observationer. Data bruges som grundlag for beregninger, vurderinger
+og konklusioner. Eksempler på data i fysik kan være temperatur, tid,
+spænding, strøm, effekt og energi. Uden data kan man ikke dokumentere
+resultater eller vise, at noget virker som forventet.
+
+~ 73 ~
+
+Målinger
+De fleste data kommer fra målinger. En måling består altid af et tal og
+en enhed. Korrekte enheder er afgørende, fordi forkert eller manglende
+enhed gør data ubrugelige.
+
+~ 74 ~
+
+Dokumentation
+Dokumentation er en systematisk beskrivelse af, hvad der er gjort,
+hvordan det er gjort, hvilke data der er indsamlet, og hvad resultatet er.
+Dokumentation bruges til at vise, at arbejdet er udført korrekt, og til at
+gøre arbejdet forståeligt for andre.
+
+~ 75 ~
+
+Dokumentation på E-niveau
+God dokumentation på E-niveau skal være overskuelig, fagligt korrekt,
+bruge SI-enheder og følge en fast struktur. Det vigtigste er klare
+formuleringer og tydelig sammenhæng mellem data og konklusion.
+
+~ 76 ~
+
+Tabeller og grafer
+Tabeller bruges til at samle data på en overskuelig måde. Grafer bruges
+til at vise sammenhænge mellem fysiske størrelser, for eksempel
+temperatur som funktion af tid eller strøm som funktion af spænding.
+
+~ 77 ~
+
+IT i fysik
+IT bruges til beregninger, tabeller, grafer og dokumentation. Regneark
+og tekstbehandling gør arbejdet hurtigere og mere overskueligt, men
+resultater skal stadig vurderes fagligt.
+
+~ 78 ~
+
+DOKUMENTATIONER OG MUNDTLIG PRØVE
+Dokumentationernes formål
+Dokumentationerne
+indsamle
+
+og
+
+bruge
+
+viser,
+
+at
+
+data,
+
+eleven
+
+anvende
+
+kan
+fysik
+
+arbejde
+i
+
+eksperimentelt,
+
+praksis
+
+og
+
+forklare
+
+sammenhænge med egne ord. Dokumentationerne danner grundlag for
+den mundtlige prøve.
+
+De to dokumentationer
+Der udarbejdes to dokumentationer. Den første er fælles for alle og
+omhandler energi, effekt og virkningsgrad. Den anden vælges af eleven
+og tager udgangspunkt i elevens fag.
+
+Indhold
+Hver dokumentation indeholder formål, teori, forsøg, data, beregninger,
+konklusion og kobling til fag. Strukturen skal være tydelig og ens i begge
+dokumentationer.
+
+Den mundtlige prøve
+Den mundtlige prøve tager udgangspunkt i dokumentationerne. Eleven
+skal kunne forklare forsøg, formler, beregninger og resultater samt koble
+fysik til praktisk arbejde.
+
+Forberedelse
+God forberedelse handler om at forstå dokumentationerne, kunne
+forklare forsøgene uden noter og træne mundtlig forklaring.
+
+~ 79 ~
+
+

@@ -1,1 +1,8 @@
 
+{
+  "name": "isaac",
+  "private": true,
+  "dependencies": {
+    "convex": "^1.25.0"
+  }
+}

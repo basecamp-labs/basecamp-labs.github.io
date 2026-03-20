@@ -1,5 +1,5 @@
 async function askIsaac(question) {
-  const res = await fetch("https://DIT-NAVN.convex.site/ask", {
+  const res = await fetch("", {"https://resilient-ibis-227.convex.site/ask"
     method: "POST",
     headers: {
       "Content-Type": "application/json",

@@ -12,8 +12,7 @@ http.route({
 
     return new Response(
       JSON.stringify({
-        answer: "Backend virker 👍",
-        question,
+        answer: "Du spurgte: " + question,
       }),
       {
         headers: {
